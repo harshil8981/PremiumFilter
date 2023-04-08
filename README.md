@@ -68,7 +68,7 @@ Pᴏsᴛ Sʜᴏʀᴛɴᴇʀ Lɪɴᴋ Fᴇᴀᴛᴜʀᴇ 😗
 
 Cᴀɴ'ᴛ ᴜɴᴅᴇʀsᴛᴀɴᴅ ﹖ Sᴇᴇ SᴄʀᴇᴇɴSʜᴏᴛ 👇
 <p align="center">
-  <img src="https://graph.org/file/21483ea00b3d273b8b9cb.jpg" alt="Proud To Say">
+  <img src="https://graph.org/file/17ac95a22320783e8f18c.jpg" alt="Proud To Say">
   </p>
 
 ## Dᴇᴘᴏʟʏ
