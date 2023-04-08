@@ -79,7 +79,7 @@ Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
 <details><summary>Dᴇᴘᴏʟʏ Tᴏ Hᴇʀᴏᴋᴜ {ᴘᴀɪᴅ}</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/harshil8981/PremiumFilter">
+<a href="https://heroku.com/deploy?template=https://github.com/ayush1104/PremiumFilter">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
   </a>
   </p>
@@ -98,7 +98,7 @@ Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
 <details><summary>Dᴇᴘᴏʟʏ Tᴏ Kᴏʏᴇʙ {ᴩᴀɪᴅ}</summary>
 <p>
 <br>
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/harshil/PremiumFilter&branch=main">
+<a href="https://app.koyeb.com/deploy?type=git&repository=ayush1104/PremiumFilter&branch=main">
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="deploy-to-koyeb">
   </a
   </p>
@@ -107,7 +107,7 @@ Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
 <details><summary>Dᴇᴘᴏʟʏ Tᴏ Oᴋᴛᴇᴛᴏ {ᴘᴀɪᴅ}</summary>
 <p>
 <br>
-<a href="https://cloud.okteto.com/deploy?repository=https://github.com/harshil8981/PremiumFilter">
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/ayush1104/PremiumFilter">
   <img src="https://okteto.com/develop-okteto.svg" alt="deploy-to-okteto">
   </a>
   </p>
@@ -115,7 +115,7 @@ Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
 <details><summary>Dᴇᴘᴏʟʏ Tᴏ Rᴀɪʟᴡᴀʏ {ғʀᴇᴇ}</summary>
 <p>
 <br>
-<a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fharshil8981%2FPremiumFilter">
+<a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fayush1104%2FPremiumFilter">
   <img src="https://railway.app/button.svg" alt="deploy-to-railway">
   </a>
   </p>
@@ -124,7 +124,7 @@ Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
 <p>
 You must have the latest version of <a href="golang.org">go</a> installed first
 <pre>
-git clone https://github.com/harshil8981/PremiumFilter
+git clone https://github.com/ayush1104/PremiumFilter
 cd AwesomeFilterPro
 go build .
 ./PremiumFilter
