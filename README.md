@@ -74,7 +74,7 @@ Cᴀɴ'ᴛ ᴜɴᴅᴇʀsᴛᴀɴᴅ ﹖ Sᴇᴇ SᴄʀᴇᴇɴSʜᴏᴛ 👇
 ## Dᴇᴘᴏʟʏ
 Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
 
-<a href=https://github.com/harshil8981/PremiumFilter/blob/Instruction.pyyy>Follow This Instruction Before Depolying Heroku / Koyeb</a>
+<a href=https://github.com/harshil8981/PremiumFilter/blob/main/Instruction.pyyy>Follow This Instruction Before Depolying Heroku / Koyeb</a>
 
 <details><summary>Dᴇᴘᴏʟʏ Tᴏ Hᴇʀᴏᴋᴜ {ᴘᴀɪᴅ}</summary>
 <p>
