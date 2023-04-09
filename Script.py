@@ -27,7 +27,7 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : ғʀᴇᴇ ʜᴏsᴛɪɴɢ
 📢 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/Movie_Zone_Request_Group>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-🌟 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : <a href=https://github.com/harshil8981/PremiumFilter>ʀᴇᴩᴏ ʟɪɴᴋ</a></b>"""
+🌟 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : <a href=https://github.com/ayush1104/PremiumFilter>ʀᴇᴩᴏ ʟɪɴᴋ</a></b>"""
 
     SOURCES_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @Hp_botupdate
 
